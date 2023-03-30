@@ -60,6 +60,6 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![output](./image/Screenshot .png)
+![output](https://raw.githubusercontent.com/ARUNKUMART9968/webserver/main/image/Screenshot%20.png)
 ## RESULT:
 The program is executed succesfully
